@@ -18,4 +18,4 @@ Se usan #### para h4
 ### Negrita
 1. se usan dos asteriscos al principio y al final del texto a resaltar **Texto**   
 
-![Tux, the Linux mascot](/assets/img/tux.png)
+
