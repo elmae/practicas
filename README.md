@@ -3,10 +3,14 @@ Mis practicas de Git & GitHub con vsCode, y en general
 
 ## sintaxis marckdown   
 ### Titulos
-1. # Heading 1
-2. ## Heading 2
-3. ### Heading 3
-4. #### Heading 4   
+# Heading 1   
+Se usa # para h1  
+## Heading 2   
+Se usan ## para h2   
+### Heading 3   
+Se usan ### para h3   
+#### Heading 4   
+Se usan #### para h4   
 
 ### Salto de linea   
 1. 2 o mas espacios + enter
