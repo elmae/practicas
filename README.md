@@ -1,2 +1,2 @@
 # practicas
-Mis practicas de aprendizaje en desarrollo web
+Mis practicas de Git & GitHub con vsCode
