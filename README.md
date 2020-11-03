@@ -13,4 +13,9 @@ Se usan ### para h3
 Se usan #### para h4   
 
 ### Salto de linea   
-1. 2 o mas espacios + enter
+1. 2 o mas espacios + enter   
+
+### Negrita
+1. se usan dos asteriscos al principio y al final del texto a resaltar **Texto**   
+
+![Tux, the Linux mascot](/assets/img/tux.png)
