@@ -16,6 +16,6 @@ Se usan #### para h4
 1. 2 o mas espacios + enter   
 
 ### Negrita
-1. se usan dos asteriscos al principio y al final del texto a resaltar **Texto**   
+1. Se usan dos asteriscos al principio y al final del texto a resaltar **Texto**   
 
 
